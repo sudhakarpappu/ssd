@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@zxcvbn-ts/core": "^3.0.0",
+    "@zxcvbn-ts/language-en": "^3.0.0",
+    "angular-password-strength-meter": "^11.0.0",
+    "express": "^4.19.2"
+  }
+}

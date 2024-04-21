@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "HP laptop",
+    "image": "/image/lap1.jpeg",
+    "price": "89999.00"
+  },
+  {
+    "id": 2,
+    "name": "OPPO Smartphone",
+    "price": "59999.00",
+    "image": "/image/oppo.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Realme Headphones",
+    "price": "2999.00",
+    "image": "/image/realme.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Oneplus y50 Television",
+    "price": "79999.00",
+    "image": "/image/oneplus.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Tablet",
+    "price": "44999.00",
+    "image": "/image/samsung.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Coffee Maker",
+    "price": "2499.00",
+    "image": "/image/coffee.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "JBL Bluetooth Speaker",
+    "price": "1999.00",
+    "image": "/image/jbl.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "ASUS Wireless Mouse",
+    "price": "599.00",
+    "image": "/image/asus.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "PS5 Console",
+    "price": "34999.00",
+    "image": "/image/ps5.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "price": "2999.00",
+    "image": "/image/fit.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Apple MacBook Pro",
+    "price": "129999.00",
+    "image": "/image/macbook.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Canon EOS Rebel T7 DSLR Camera",
+    "price": "39999.00",
+    "image": "/image/canon.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": "119999.00",
+    "image": "/image/s12ultra.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Sony PlayStation 4",
+    "price": "49999.00",
+    "image": "/image/ps4.jpeg"
+  },
+  {
+    "id": 15,
+    "name": "Bose QuietComfort 35 II Wireless Headphones",
+    "price": "29999.00",
+    "image": "/image/bose.jpeg"
+  },
+  {
+    "id": 16,
+    "name": "Nike Air Max 270 Sneakers",
+    "price": "8999.00",
+    "image": "/image/nike.jpeg"
+  },
+  {
+    "id": 17,
+    "name": "Fitbit Versa 3 Smartwatch",
+    "price": "24999.00",
+    "image": "/image/fitbit.jpeg"
+  },
+  {
+    "id": 18,
+    "name": "KitchenAid Stand Mixer",
+    "price": "24999.00",
+    "image": "/image/kitchenaid.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Samsung 55-inch QLED 4K TV",
+    "price": "79999.00",
+    "image": "/image/qledtv.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Dell Ultrasharp 27-inch Monitor",
+    "price": "34999.00",
+    "image": "/image/dellmonitor.jpeg"
+  }
+]
